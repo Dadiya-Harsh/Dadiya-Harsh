@@ -13,6 +13,13 @@ I'm a passionate **AI enthusiast** focused on building innovative solutions and 
 
 ---
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dadiya-Harsh&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+
 ## 🔍 Areas of Interest
 
 - 🧠 **Artificial Intelligence & Machine Learning**
@@ -43,7 +50,7 @@ I'm a passionate **AI enthusiast** focused on building innovative solutions and 
 ## 📬 Get in Touch
 
 - 📧 **Email**: [harshdadiya@gmail.com](mailto:harshdadiya@gmail.com)  
-- 💼 **LinkedIn**: [Harsh Dadiya](https://www.linkedin.com/in/harsh-dadiya/)
+- 💼 **LinkedIn**: [Harsh Dadiya](https://www.linkedin.com/in/harsh-dadiya/) 
 - 🐦 **X (Twitter)**: [@Dadiya-Harsh](https://x.com/harsh_dadiya)
 
 ---
