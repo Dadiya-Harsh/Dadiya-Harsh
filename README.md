@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I’m Harsh Dadiya (@Dadiya-Harsh)
 
-<!--
-**Dadiya-Harsh/Dadiya-Harsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
+I'm a passionate **AI enthusiast** focused on building innovative solutions and actively contributing to the **open-source community**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Background in **Artificial Intelligence & Machine Learning**
+- 💻 Advocate for **open-source development** and collaboration
+- 🌍 Driven to create **impactful, AI-powered solutions** for real-world challenges
+
+---
+
+## 🔍 Areas of Interest
+
+- 🧠 **Artificial Intelligence & Machine Learning**
+- 📝 **Natural Language Processing (NLP)**
+- 🤖 **Multi-Agent Systems & Automation**
+- ☁️ **Cloud-native AI Infrastructure**
+- 📊 **Big Data Analytics & Processing**
+
+---
+
+## 🌱 Currently Exploring
+
+- ⚡ **Apache Spark** – Mastering big data analytics
+- 🧾 **Prompt Engineering** – Optimizing and fine-tuning LLMs
+- 🐳 **Kubernetes & Docker** – Building scalable, containerized AI deployments
+
+---
+
+## 🤝 Open to Collaboration On
+
+- 🧰 Open-source **AI frameworks and tools**
+- 🧠 NLP and **LLM-powered applications**
+- 🏗️ Scalable, **AI-driven backend systems**
+- 🧪 Cutting-edge **AI research and innovation**
+
+---
+
+## 📬 Get in Touch
+
+- 📧 **Email**: [harshdadiya@gmail.com](mailto:harshdadiya@gmail.com)  
+- 💼 **LinkedIn**: [Harsh Dadiya](https://www.linkedin.com/in/harshdadiya)  
+- 🐦 **X (Twitter)**: [@Dadiya-Harsh](https://twitter.com/Dadiya-Harsh)
+
+---
+
+## ⚡ Fun Fact
+
+I love breaking down complex AI concepts into **simple, relatable explanations** — because clarity is the key to innovation! 😄
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Languages:** Python, SQL, JavaScript  
+**Frameworks:** PyTorch, TensorFlow, LangChain, FastAPI, Flask  
+**Tools:** Docker, Kubernetes, Git, Apache Spark
+**Platforms:** AWS, PostgreSQL, Qdrant  
+**Others:** Hugging Face, OpenAI API
+
+---
+
+> _"The best way to predict the future is to invent it."_ — **Alan Kay**
