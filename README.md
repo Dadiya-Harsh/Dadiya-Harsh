@@ -43,8 +43,8 @@ I'm a passionate **AI enthusiast** focused on building innovative solutions and 
 ## 📬 Get in Touch
 
 - 📧 **Email**: [harshdadiya@gmail.com](mailto:harshdadiya@gmail.com)  
-- 💼 **LinkedIn**: [Harsh Dadiya](https://www.linkedin.com/in/harshdadiya)  
-- 🐦 **X (Twitter)**: [@Dadiya-Harsh](https://twitter.com/Dadiya-Harsh)
+- 💼 **LinkedIn**: [Harsh Dadiya](https://www.linkedin.com/in/harsh-dadiya/)
+- 🐦 **X (Twitter)**: [@Dadiya-Harsh](https://x.com/harsh_dadiya)
 
 ---
 
