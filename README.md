@@ -25,8 +25,28 @@ I'm a passionate **AI enthusiast** focused on building **innovative solutions** 
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dadiya-Harsh&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dadiya-Harsh&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadiya-Harsh&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dadiya-Harsh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🏆 Featured Projects  
+
+- 🔹 [**SQL Agent Tool**](https://github.com/Dadiya-Harsh/sql-tool) – Secure SQL tool for AI agents with LLMs  
+- 🔹 [**AI-Powered EdTech Platform**](#) – Scalable AI backend with Flask & Qdrant  
+- 🔹 [**dbtracker**](#) – Custom schema & data migration framework  
 
 ---
 
@@ -65,6 +85,12 @@ I'm a passionate **AI enthusiast** focused on building **innovative solutions** 
 
 ---
 
+## ⚡ Fun Fact  
+
+I love breaking down complex AI concepts into **simple, relatable explanations** — because clarity is the key to innovation! 😄  
+
+---
+
 ## 📬 Connect with Me  
 
 <p align="center">
@@ -72,12 +98,6 @@ I'm a passionate **AI enthusiast** focused on building **innovative solutions** 
   <a href="https://www.linkedin.com/in/harsh-dadiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/harsh_dadiya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
----
-
-## ⚡ Fun Fact  
-
-I love breaking down complex AI concepts into **simple, relatable explanations** — because clarity is the key to innovation! 😄  
 
 ---
 
