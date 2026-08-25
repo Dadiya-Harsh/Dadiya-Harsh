@@ -1,78 +1,106 @@
-# 👋 Hey there, I’m Harsh Dadiya (@Dadiya-Harsh)
+# 👋 Hey there, I'm Harsh Dadiya (@Dadiya-Harsh)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Open+Source+Contributor;Machine+Learning+%7C+Deep+Learning;Building+Scalable+AI+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Production+Systems;Real-time+Voice+Agents+%7C+LLMs+%26+RAG;FastAPI+%7C+AWS+%7C+PostgreSQL" alt="Typing Animation" />
 </p>
 
-Welcome to my GitHub!  
-I'm a passionate **AI enthusiast** focused on building **innovative solutions** and actively contributing to the **open-source community**.
+Welcome to my GitHub! I'm an **AI Engineer** with **1.5+ years** building and shipping production AI systems. My focus is on **real-time voice agents**, **multi-agent workflows**, **RAG pipelines**, and scalable backend services powered by Python, FastAPI, and AWS.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Background in **Artificial Intelligence & Machine Learning**  
-- 💻 Advocate for **open-source development & collaboration**  
-- 🌍 Driven to create **AI-powered solutions** for real-world challenges  
+- 💼 **Associate AI Engineer** at Wappnet Systems (Jun 2025 – Present) — promoted from AI/ML Intern after 6 months  
+- 🧠 Specialized in **LLMs, Generative AI, Real-time Voice Agents, and Multi-Agent Architectures**  
+- ⚙️ Build production systems with **FastAPI, PostgreSQL, AWS**, and **Model Context Protocol (MCP)**  
+- 📡 Experience with **OpenAI Realtime API, OpenAI Agents SDK, LangChain, Qdrant, Pinecone**  
+- 🌐 Integrations: **Twilio, WhatsApp Business API, WebSockets**  
+- 🎓 B.E. Information Technology (CGPA 8.14/10) + Minor in IoT — A D Patel Institute of Technology  
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dadiya-Harsh&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dadiya-Harsh&theme=tokyonight&hide_border=false" height="180" alt="GitHub Streak" />
-</p>
+### Associate AI Engineer @ Wappnet Systems (Jun 2025 – Present)
+*Promoted from AI/ML Intern after six months*
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dadiya-Harsh&theme=tokyonight" alt="Profile Details" />
-</p>
+**Production AI Systems & Voice Agents:**
+- **Video Generation System** – Built a real-world video generation engine producing themed long-form videos (up to 45 minutes) for multiple YouTube channels, matching each channel's format and tone
+- **Real-time Voice Agent** – Built customer support voice agent on OpenAI Realtime API with bidirectional audio streaming between Twilio telephony and LLM over FastAPI WebSockets
+- **Multi-Agent Workflows** – Shipped production multi-agent systems with tool use and contextual reasoning across internal business functions, including automated research and reporting
+- **RAG Pipelines** – Built enterprise RAG over 500+ documents using OpenAI Agents SDK and Qdrant for internal search and knowledge retrieval
+- **MCP Servers** – Built Model Context Protocol servers exposing internal business systems as agent-callable tools, usable from Claude Code, Codex, and other MCP clients
+- **Chat Integrations** – Built WhatsApp and web chat integrations for business sites, connecting customer conversations to internal systems
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dadiya-Harsh&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
+**Backend & DevOps:**
+- Design and deploy **FastAPI + PostgreSQL services on AWS** (Lambda, S3, RDS, IAM, Secrets Manager, CloudWatch)
+- Established reusable logging and monitoring patterns across services
+- End-to-end ownership: design → API development → deployment → production debugging
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dadiya-Harsh&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dadiya-Harsh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+### AI/ML Intern @ Wappnet Systems (Jan 2025 – Jun 2025)
+- Built recommendation system in Python for enterprise client application
+- Worked alongside senior engineers on enterprise AI architecture, code review, and deployment workflows
+- Progressed to production ownership within six months
 
 ---
 
-## 🏆 Featured Projects  
+## 🛠️ Technical Skills
 
-- 🔹 [**SQL Agent Tool**](https://github.com/Dadiya-Harsh/sql-tool) – Secure SQL tool for AI agents with LLMs  
-- 🔹 [**AI-Powered EdTech Platform**](#) – Scalable AI backend with Flask & Qdrant  
-- 🔹 [**dbtracker**](#) – Custom schema & data migration framework  
+**Languages & Core**  
+Python, SQL, OOP, Git, GitHub, Linux, Docker
+
+**AI & Machine Learning**  
+LLMs, Generative AI, Prompt Engineering, RAG Pipelines, OpenAI Agents SDK, OpenAI Realtime API, Model Context Protocol (MCP), Multi-Agent Architectures, LangChain, Conversational & Voice AI, NumPy, Pandas, scikit-learn, PyTorch
+
+**Vector & Data Stores**  
+Qdrant, Pinecone, PostgreSQL, SQLAlchemy
+
+**Backend & Integrations**  
+FastAPI, Flask, REST APIs, WebSockets, Twilio, WhatsApp Business API
+
+**Cloud & Operations**  
+AWS (Lambda, S3, RDS, IAM, Secrets Manager, CloudWatch), logging and monitoring
+
+---
+
+## 🏆 Featured Projects
+
+- 🔹 **[SQL Agent Tool](https://github.com/Dadiya-Harsh/sql-tool)** – Secure SQL tool for AI agents with LLMs  
+- 🔹 **Video Generation System** – Real-world multi-channel YouTube video generation (Wappnet Systems)  
+- 🔹 **Real-time Voice Agent** – OpenAI Realtime API + Twilio voice integration (Wappnet Systems)  
+- 🔹 **Enterprise RAG Pipeline** – 500+ document knowledge retrieval system with Qdrant  
+
+---
+
+## 🌍 Open Source Contributions
+
+**OpenMontage** — [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) (50k+ stars, AGPL-3.0)  
+- Fixed agent skill-loading bug (missing YAML frontmatter, kebab/snake-case mismatch) — Issue #192  
+- Contributed as [@harshdadiya-wappnet](https://github.com/harshdadiya-wappnet)
+
+---
+
+## 📚 Writing & Content
+
+I publish technical articles on AI engineering, agent architectures, and developer tooling at [medium.com/@harshdadiya](https://medium.com/@harshdadiya)
 
 ---
 
 ## 🔍 Areas of Interest
 
-- 🧠 **Artificial Intelligence & Machine Learning**  
-- 📝 **Natural Language Processing (NLP)**  
-- 🤖 **Multi-Agent Systems & Automation**  
-- ☁️ **Cloud-native AI Infrastructure**  
-- 📊 **Big Data Analytics & Processing**  
-
----
-
-## 🌱 Currently Exploring
-
-- ⚡ **Apache Spark** – Mastering big data analytics  
-- 🧾 **Prompt Engineering** – Optimizing & fine-tuning LLMs  
-- 🐳 **Kubernetes & Docker** – Scalable AI deployments  
+- 🧠 **LLMs & Generative AI** – Building intelligent agents and multi-agent systems  
+- 🎙️ **Real-time Voice/Conversational AI** – Audio streaming, WebSockets, and interactive experiences  
+- 🏗️ **AI Backend Architecture** – Scalable, production-ready systems with proper logging and monitoring  
+- 📊 **RAG & Knowledge Management** – Enterprise document retrieval and contextual reasoning  
+- ☁️ **Cloud-native AI** – AWS deployment, serverless functions, and CI/CD pipelines  
 
 ---
 
 ## 🤝 Open to Collaboration On
 
 - 🧰 Open-source **AI frameworks & tools**  
-- 🧠 NLP and **LLM-powered applications**  
-- 🏗️ Scalable **AI-driven backend systems**  
+- 🧠 **LLM-powered applications** and voice agents  
+- 🏗️ Scalable **AI-driven backend systems** and integrations  
 - 🧪 Cutting-edge **AI research & innovation**  
 
 ---
@@ -80,23 +108,21 @@ I'm a passionate **AI enthusiast** focused on building **innovative solutions** 
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql,tensorflow,pytorch,docker,kubernetes,aws,postgresql,mongodb,git,flask,fastapi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,sql,fastapi,flask,postgresql,docker,aws,git,pytorch,openai&perline=10" alt="Tech Stack" />
 </p>
 
----
-
-## ⚡ Fun Fact  
-
-I love breaking down complex AI concepts into **simple, relatable explanations** — because clarity is the key to innovation! 😄  
+**Stack:** Python • FastAPI • PostgreSQL • Docker • AWS • OpenAI APIs • LangChain • Qdrant • PyTorch • SQL • Git
 
 ---
 
-## 📬 Connect with Me  
+## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:harshdadiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/harsh-dadiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/harsh_dadiya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:harshdadiya@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/harsh-dadiya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://medium.com/@harshdadiya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://github.com/Dadiya-Harsh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/harsh_dadiya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
